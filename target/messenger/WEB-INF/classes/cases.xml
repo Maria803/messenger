@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cases>
+
+	<case>
+		<offenceType>UndeclaredIncomeGTE160000LT100000</offenceType>
+		<firstName>Adam</firstName>
+		<lastName>Jones</lastName>
+		<postcode>M5</postcode>
+		<NINO>AB 22 33 44 S</NINO>
+	</case>
+	
+	<case>
+		<offenceType>LivingTogetherLT3Months</offenceType>
+		<firstName>Joe</firstName>
+		<lastName>White</lastName>
+		<postcode>M5</postcode>
+		<NINO>DC 45 92 12 J</NINO>
+	</case>
+	
+</cases>
